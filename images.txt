@@ -1,5 +1,5 @@
-db:1.4.3
-elasticsearch:8.10.2
-server:1.4.3
-ingestion:1.4.3
+db
+elasticsearch
+server
+ingestion
 
